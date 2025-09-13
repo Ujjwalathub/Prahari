@@ -17,8 +17,5 @@
       "memory": 1024,
       "maxDuration": 10
     }
-  },
-  "env": {
-    "GOOGLE_API_KEY": "@google_api_key"
   }
 }
